@@ -1,7 +1,6 @@
 abc
 
 12345
-<<<<<<< HEAD
 
 develop
 
@@ -11,6 +10,9 @@ deve2
 
 推送
 
+<<<<<<< HEAD
+等等
+=======
 冲突解决
 
 
@@ -26,5 +28,4 @@ deve2
 
 
 
-=======
->>>>>>> parent of f2ccafb (add (develop))
+>>>>>>> b12f0b95131a60f497c16f654ed4a30d48081d2d
